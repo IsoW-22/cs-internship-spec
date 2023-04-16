@@ -57,7 +57,6 @@
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
 
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
